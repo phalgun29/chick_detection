@@ -12,9 +12,9 @@ pip install ultralytics gradio
 
 ### 2. Prepare the Files
 
-The application needs the Python script (app.py) and your model weights (yolov8m_production_ready.pt) in the same directory.
+The application needs the Python script (mvp_app.py) and your model weights (yolov8m_production_ready.pt) in the same directory.
 
-#### A. Save the Python Script (app.py)
+#### A. Save the Python Script (mvp_app.py)
 
 Save the full Gradio application code into a file named `app.py` in your project directory.
 
